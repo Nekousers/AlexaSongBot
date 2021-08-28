@@ -11,8 +11,8 @@ from AlexaSongBot.sql.chat_sql import add_chat_to_db
 
 start_text = """
 Hey [{}](tg://user?id={}),
-I'm Ninomae Ina'nis🐙
-Just send me the song name you want to download.
+I'm [Ninomae Ina'nis🐙](https://telegra.ph/file/36ed53d3125ce776f8df8.jpg)
+Tell me the song you want to hear~.
 Eg: ```/song Faded Alan Walker```
 """
 
